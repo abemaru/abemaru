@@ -29,3 +29,4 @@ send a DM to [my Twitter Account](https://twitter.com/abemaru7)
 
 ## Something else...
 [![wakatime](https://wakatime.com/badge/user/1a5296f9-3c2e-45d4-b1d9-a0aa87a7a4a0.svg)](https://wakatime.com/@1a5296f9-3c2e-45d4-b1d9-a0aa87a7a4a0)
+[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20abemaru7)](https://twitter.com/abemaru7)
