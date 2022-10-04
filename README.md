@@ -2,6 +2,7 @@
 ## 💻 Development Environment
 ### OS
 - MacOS
+- Manjaro
 
 ### 📝 Editor
 - [Neovim](https://neovim.io/)
