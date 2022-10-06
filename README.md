@@ -11,7 +11,6 @@
 
 ## 👀 I’m interested in ...
 - Web Application Development
-- Game Development
 
 ## 🌱 I’m currently learning ...
 - [Python](https://www.python.org/) 🐍
