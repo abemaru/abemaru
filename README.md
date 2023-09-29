@@ -1,6 +1,7 @@
 # Hello! Welcome to to abemaru's profile!
 ## 💻 Development Environment
 ### OS
+- Windows11
 - MacOS
 - Manjaro
 
@@ -14,6 +15,7 @@
 
 ## 🌱 I’m currently learning ...
 - [Python](https://www.python.org/) 🐍
+- [Typescript](https://www.typescriptlang.org/)
 - [Go](https://go.dev/) 🐀
 - [Deno](https://deno.land/) 🦕
 
