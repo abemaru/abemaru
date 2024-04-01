@@ -3,12 +3,10 @@
 ### OS
 - Windows11
 - MacOS
-- Manjaro
 
 ### 📝 Editor
 - [Neovim](https://neovim.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-
 
 ## 👀 I’m interested in ...
 - Web Application Development
