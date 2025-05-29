@@ -1,5 +1,8 @@
 # Hello! Welcome to to abemaru's profile!
 ## 💻 Development Environment
+
+## My Dev Skills
+[![My Skills]([https://skillicons.dev/icons?i=python,ts,js,vuejs,html,css](https://skillicons.dev/icons?i=r,python,ts,js,vuejs,html,css,docker,postgres,aws))](https://skillicons.dev)
 ### OS
 - Windows11
 - NixOS
